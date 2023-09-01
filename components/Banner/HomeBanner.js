@@ -30,8 +30,8 @@ export const HomeBanner = () => {
                             <img
                                 src="/logo.png"
                                 alt="logo"
-                                height="100"
-                                width="100"
+                                height="200"
+                                width="200"
                             />
                         </div>
                     </Content>
