@@ -12,7 +12,7 @@ const DATA = [
                 href: "https://app.promptpal.me/#/terms"
             },
             {
-                label: "Privac Policy",
+                label: "Privacy Policy",
                 href: "https://app.promptpal.me/#/privacypolicy"
             }
         ]
